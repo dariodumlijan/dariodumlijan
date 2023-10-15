@@ -1,2 +1,4 @@
-/node_modules
-/src/reportWebVitals.js
+vite.config.ts
+vitest.config.ts
+setupTests.ts
+/dist

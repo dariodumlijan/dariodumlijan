@@ -1,0 +1,175 @@
+/* CUSTOM Fonts - START */
+@font-face {
+  font-family: Wandertucker;
+  src: url("../font/Wandertucker.ttf") format("opentype");
+}
+/* CUSTOM Fonts - END */
+
+/*** The new CSS Reset - version 1.4.4 (last updated 22.12.2021) ***/
+
+/*
+Remove all the styles of the "User-Agent-Stylesheet", except for the 'display' property
+- The "symbol *" part is to solve Firefox SVG sprite bug
+*/
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+  all: unset;
+  display: revert;
+}
+
+/* Preferred box-sizing value */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove list styles (bullets/numbers) */
+ol,
+ul,
+menu {
+  list-style: none;
+}
+
+/* For images to not be able to exceed their container */
+img {
+  max-width: 100%;
+}
+
+/* removes spacing between cells in tables */
+table {
+  border-collapse: collapse;
+}
+
+/* revert the 'white-space' property for textarea elements on Safari */
+textarea {
+  white-space: revert;
+}
+
+/* fix the feature of 'hidden' attribute. display:revert; revert to element instead of attribute */
+:where([hidden]) {
+  display: none;
+}
+
+/* revert for bug in Chromium browsers - fix for the content editable attribute will work properly. */
+:where([contenteditable]) {
+  -moz-user-modify: read-write;
+  -webkit-line-break: after-white-space;
+  -webkit-user-modify: read-write;
+  overflow-wrap: break-word;
+}
+
+/* apply back the draggable feature - exist only in Chromium and Safari */
+:where([draggable="true"]) {
+  -webkit-user-drag: element;
+}
+
+/* General Styles - START */
+html,
+body {
+  background-color: $bg;
+  color: $white;
+  height: 100%;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+  }
+
+  :focus {
+    outline: none;
+  }
+
+  *,
+  input,
+  button {
+    -webkit-tap-highlight-color: transparent;
+  }
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  i,
+  span,
+  a,
+  li {
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    color: $white;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  img {
+    -webkit-touch-callout: none;
+    pointer-events: none;
+  }
+
+  #root {
+    height: 100%;
+  }
+
+  #to-top {
+    align-items: center;
+    background-color: $primary;
+    border-radius: 50%;
+    border: 2px solid $primaryLight;
+    bottom: 40px;
+    color: $white;
+    cursor: pointer;
+    display: flex;
+    font-size: 30px;
+    height: 48px;
+    justify-content: center;
+    opacity: 0;
+    padding-bottom: 2px;
+    position: fixed;
+    right: 40px;
+    transition: 0.5s;
+    user-select: none;
+    visibility: hidden;
+    width: 50px;
+    z-index: 99;
+
+    @media only screen and (max-width: "767px") {
+      bottom: 20px;
+      right: 10px;
+    }
+
+    &.show {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: rgba($black, 0.2);
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $primary;
+  border-radius: 5px;
+}
+/* Scrollbar END */
+
+/* General Styles - END */

@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #999999">Full-Stack Developer / UI/UX Designer / Music Producer</h3>
 <br />
 
-<p align="left" style="background-color: #ffffff10; padding: 10px; border-radius: 4px;">I am a full-stack Web Developer & UI/UX Designer from Croatia who's been coding for a long time. I've made several web apps, mobile apps & websites.</p>
+<p align="left" style="background-color: #ffffff10; padding: 10px; border-radius: 4px;">I am a Full-stack Web Engineer & UI/UX Designer from Croatia who's been coding for a long time. I've made several web apps, mobile apps & websites.</p>
 <br />
 
 ### My portfolio: [dariodumlijan.com](https://dariodumlijan.com)
@@ -12,7 +12,7 @@
 
 ## Connect / Follow me & my work:
 <p align="left" style="background-color: #ffffff10; border-radius: 4px; padding: 10px;">
-  <a href="https://www.linkedin.com/in/dario-dumlijan-279a371b5/" target="_blank" style="text-decoration: none; margin: 5px">
+  <a href="https://www.linkedin.com/in/dariodumlijan" target="_blank" style="text-decoration: none; margin: 5px">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" />
   </a>
   <a href="https://instagram.com/dariodumlijan/" target="_blank" style="text-decoration: none; margin: 5px">

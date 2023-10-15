@@ -1,0 +1,40 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - main
+  workflow_call:
+    secrets:
+      access-token:
+        required: false
+
+env:
+  NODE_VERSION: 18.0
+
+jobs:
+  run_tests:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request')
+    name: Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      # Run tests
+      - run: yarn tsc
+      - run: yarn lint
+      - run: yarn test

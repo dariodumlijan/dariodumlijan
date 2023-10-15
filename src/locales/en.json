@@ -1,0 +1,36 @@
+{
+  "business_card": {
+    "full_name": "Dario Dumlijan",
+    "first_name": "Dario",
+    "last_name": "Dumlijan",
+    "contact": {
+      "title": "Contact information",
+      "email": {
+        "label": "E-mail",
+        "value": "dario.dumlijan1@gmail.com"
+      },
+      "mobile": {
+        "label": "Mobile",
+        "value": "+385 99 194 0332"
+      },
+      "company": "Company"
+    },
+    "summary": "Summary",
+    "location": {
+      "title": "Location",
+      "address": "Croatia, Zagreb 10000",
+      "cta": "Show on Map",
+      "url": "https://goo.gl/maps/cNKNc5tFVnzxucE78"
+    },
+    "role": "Full-stack software engineer",
+    "company": "Thespian",
+    "company_url": "https://thespian.hr",
+    "summary_1": "I am a full-stack software engineer from Croatia who's been professionally coding for the last ",
+    "summary_2": " years. Since then I have made several web applications, mobile applications & websites.",
+    "actions": {
+      "to_website": "Portfolio website",
+      "save": "Save to contacts",
+      "share": "Share"
+    }
+  }
+}
