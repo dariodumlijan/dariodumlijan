@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Dario</h1>
-<h3 align="center">Full-Stack Engineer & UI/UX Designer</h3>
 <h4 align="center"><a href="https://dariodumlijan.com" target="_blank">dariodumlijan.com</a></h4>
 
 ## Connect / Follow me & my work:
