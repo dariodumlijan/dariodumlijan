@@ -7,6 +7,20 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="appstore" target="_blank" height="25" />](https://apps.apple.com/us/developer/dario-dumlijan/id1561674382)
 [<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="googleplay" target="_blank" height="25" />](https://play.google.com/store/apps/dev?id=5565198170046611244)
 
+### Daily Funnies
+
+> A day without laughter is a day wasted. — Charlie Chaplin
+
+Check out more comics by [Work Chronicles](https://workchronicles.substack.com/about)
+
+<p align="center">
+  <img src="placeholder.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+</p>
+
+---
+
+### Tech Stack (this is perpetually out of date)
+
 #### Stuff I want to and/or prefer working with:
 
 [<img src="https://avatars.githubusercontent.com/u/6510388?s=200&v=4" alt="phoenix" target="_blank" height="25" />](https://www.phoenixframework.org/)

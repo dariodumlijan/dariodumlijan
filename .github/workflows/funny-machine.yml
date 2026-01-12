@@ -1,0 +1,23 @@
+name: The Funnies
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Run Script
+        run: bash src/funnies.sh
+
+      - name: Commit & Push (if changed)
+        run: |
+          git config --global user.name '${{vars.BOT_NAME}}'
+          git config --global user.email '${{secrets.BOT_EMAIL}}'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update \"The Funnies\"" && git push)
