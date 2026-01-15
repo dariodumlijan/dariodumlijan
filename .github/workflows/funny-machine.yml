@@ -13,11 +13,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Script
-        run: bash src/funnies.sh
+        run: |
+          export RSS2JSON_API_KEY=${{secrets.RSS2JSON_API_KEY}}
+          bash src/funnies.sh
 
       - name: Commit & Push (if changed)
         run: |
-          git config --global user.name '${{vars.BOT_NAME}}'
-          git config --global user.email '${{secrets.BOT_EMAIL}}'
+          git config --global user.name "${{vars.BOT_NAME}}"
+          git config --global user.email "${{secrets.BOT_EMAIL}}"
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update \"The Funnies\"" && git push)
