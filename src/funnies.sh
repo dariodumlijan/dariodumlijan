@@ -21,6 +21,7 @@ parse_date() {
 LATEST_DATE="1970-01-01"
 LATEST_IMAGE_URL=""
 LATEST_CREDITS=""
+SELECTED_FEED=""
 
 echo "Fetching comics from all feeds..."
 
@@ -40,20 +41,20 @@ for feed_script in "$FEEDS_DIR"/*.sh; do
             if [ -n "$IMAGE_URL" ] && [ -n "$DATE" ]; then
                 # Parse the date to get just YYYY-MM-DD
                 PARSED_DATE=$(parse_date "$DATE")
-                echo "  Found comic from $PARSED_DATE"
-                
+                echo "-> Found comic from $PARSED_DATE"
+
                 # Compare dates (string comparison works for YYYY-MM-DD format)
                 if [[ "$PARSED_DATE" > "$LATEST_DATE" ]] || [[ "$PARSED_DATE" == "$LATEST_DATE" ]]; then
                     LATEST_DATE="$PARSED_DATE"
                     LATEST_IMAGE_URL="$IMAGE_URL"
                     LATEST_CREDITS="$CREDITS"
-                    echo "  This is now the latest comic!"
+                    SELECTED_FEED="$feed_name"
                 fi
             else
-                echo "  Failed to get valid data from $feed_name"
+                echo "-> Failed to get valid data from $feed_name"
             fi
         else
-            echo "  Failed to run $feed_name"
+            echo "-> Failed to run $feed_name"
         fi
     fi
 done
@@ -64,8 +65,7 @@ if [ -z "$LATEST_IMAGE_URL" ]; then
 fi
 
 echo ""
-echo "Selected latest comic from date: $LATEST_DATE"
-echo "Image URL: $LATEST_IMAGE_URL"
+echo "Selected latest comic from: $SELECTED_FEED"
 echo ""
 
 # Update README.md with the latest comic
