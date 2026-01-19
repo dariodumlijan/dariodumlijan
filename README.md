@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-Check out more comics by [XKCD](https://xkcd.com)
+Check out more comics by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/international_station.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/232/wizard-of-ux.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
