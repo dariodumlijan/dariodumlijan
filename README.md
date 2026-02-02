@@ -14,7 +14,7 @@
 Check out more comics by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/groundhog_day_meaning.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
