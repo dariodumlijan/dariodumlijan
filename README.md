@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-Check out more comics by [Work Chronicles](https://workchronicles.substack.com)
+Check out more comics by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!yaND!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/0de52ce4-9802-485f-a8e0-9501ce4d1c8c_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
