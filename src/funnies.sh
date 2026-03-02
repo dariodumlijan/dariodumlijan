@@ -21,6 +21,7 @@ parse_date() {
 LATEST_DATE="1970-01-01"
 LATEST_IMAGE_URL=""
 LATEST_CREDITS=""
+LATEST_TITLE=""
 SELECTED_FEED=""
 
 echo "Fetching comics from all feeds..."
@@ -37,6 +38,7 @@ for feed_script in "$FEEDS_DIR"/*.sh; do
             IMAGE_URL=$(echo "$output" | grep "^FUNNY_IMAGE_URL=" | cut -d'=' -f2-)
             CREDITS=$(echo "$output" | grep "^FUNNY_CREDITS=" | cut -d'=' -f2-)
             DATE=$(echo "$output" | grep "^FUNNY_DATE=" | cut -d'=' -f2-)
+            TITLE=$(echo "$output" | grep "^FUNNY_TITLE=" | cut -d'=' -f2-)
             
             if [ -n "$IMAGE_URL" ] && [ -n "$DATE" ]; then
                 # Parse the date to get just YYYY-MM-DD
@@ -48,6 +50,7 @@ for feed_script in "$FEEDS_DIR"/*.sh; do
                     LATEST_DATE="$PARSED_DATE"
                     LATEST_IMAGE_URL="$IMAGE_URL"
                     LATEST_CREDITS="$CREDITS"
+                    LATEST_TITLE="$TITLE"
                     SELECTED_FEED="$feed_name"
                 fi
             else
@@ -70,14 +73,19 @@ echo ""
 
 # Update README.md with the latest comic
 if [ -f "$README_PATH" ]; then
+    CURRENT_DATE=$(date +"%a, %d %b %Y")
+
+    # Create new credits format
+    LATEST_CREDITS="The date is \`${CURRENT_DATE}\` and today's comic is \`${LATEST_TITLE}\` by ${LATEST_CREDITS}"
+
     # Create a temporary file with the updated content
     TMP_README="$TMP_DIR/README.tmp"
-    
+
     # Read the README and update both the image URL and credits
     awk -v img="$LATEST_IMAGE_URL" -v credits="$LATEST_CREDITS" '
     {
-        # Update the credits line if it starts with "Check out more comics by"
-        if ($0 ~ /^Check out more comics by/) {
+        # Update the credits line if it starts with "The date is"
+        if ($0 ~ /^The date is/) {
             print credits
         }
         # Update the image src in the img tag

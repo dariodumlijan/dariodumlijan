@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-CREDITS="Check out more comics by [XKCD](https://xkcd.com)"
+CREDITS="[XKCD](https://xkcd.com)"
 FEED_URL="https://xkcd.com/rss.xml"
 
 # Check if API key is provided
@@ -25,6 +25,7 @@ fi
 
 IMAGE_URL=$(echo "$RESPONSE" | grep -o '"thumbnail":"[^"]*"' | head -1 | sed 's/"thumbnail":"//;s/"$//')
 DATE=$(echo "$RESPONSE" | grep -o '"pubDate":"[^"]*"' | head -1 | sed 's/"pubDate":"//;s/"$//')
+TITLE=$(echo "$RESPONSE" | grep -o '"title":"[^"]*"' | sed -n '2p' | sed 's/"title":"//;s/"$//')
 
 if [ -z "$IMAGE_URL" ] || [ -z "$DATE" ]; then
   echo "Failed to extract comic data" >&2
@@ -34,3 +35,4 @@ fi
 echo "FUNNY_IMAGE_URL=$IMAGE_URL"
 echo "FUNNY_CREDITS=$CREDITS"
 echo "FUNNY_DATE=$DATE"
+echo "FUNNY_TITLE=$TITLE"
