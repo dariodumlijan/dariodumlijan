@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-Check out more comics by [Work Chronicles](https://workchronicles.substack.com)
+Check out more comics by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!ndMl!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/938e8d1d-80d6-4920-a69b-f8e233e38371_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/240/pearly-gates.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
