@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 04 Mar 2026` and today's comic is `Do you like your job?` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 05 Mar 2026` and today's comic is `Feedback Sandwich` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!M1K0!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/bb3aa8fb-4cf3-438b-b68d-9dcbf5930d78_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!XJMk!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/e5a959ae-be59-40e9-9bdf-50ac1525bf87_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
