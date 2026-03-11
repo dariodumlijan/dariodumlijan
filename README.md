@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 10 Mar 2026` and today's comic is `Work on Your Emotional Intelligence` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 11 Mar 2026` and today's comic is `Evaluating Trade-offs` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!D5eR!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/51644b34-8772-4e3f-ba29-c2a2d80095ae_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!9mz4!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/90169b37-353c-496e-8f98-2e759003d5ad_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
