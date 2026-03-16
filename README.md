@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 15 Mar 2026` and today's comic is `There Is No ` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Mon, 16 Mar 2026` and today's comic is `The Perfect CSS Stylesheet Should Be... (v2)` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!fwUY!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/5079b1f1-aaa0-466d-a875-73e1d44384d1_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/242/the-perfect-css-stylesheet-should-be-2.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
