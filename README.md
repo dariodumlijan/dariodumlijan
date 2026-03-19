@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 18 Mar 2026` and today's comic is `CXO-based Prioritization Framework` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 19 Mar 2026` and today's comic is `How to win an argument` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!DbZc!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/403ce9ae-5c8f-437b-a1ce-3e2270eb981a_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!gV22!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/2a067f79-5ced-42d4-90c7-9cbe77a1bba1_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
