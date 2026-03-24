@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 23 Mar 2026` and today's comic is `How to win an argument` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Tue, 24 Mar 2026` and today's comic is `Incorporating all feedback` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!gV22!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/2a067f79-5ced-42d4-90c7-9cbe77a1bba1_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!RUjk!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/26dd3b28-40e6-4187-92e1-67cad980ea7b_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
