@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 24 Mar 2026` and today's comic is `Incorporating all feedback` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 25 Mar 2026` and today's comic is `Bedtime Story` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!RUjk!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/26dd3b28-40e6-4187-92e1-67cad980ea7b_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!Yejs!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/fd59dff6-06b6-4241-bb5b-a7b743ed36ae_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
