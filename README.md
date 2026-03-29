@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 28 Mar 2026` and today's comic is `Satellite Pollution` by [XKCD](https://xkcd.com)
+The date is `Sun, 29 Mar 2026` and today's comic is `The Inefficiency Reward` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!pSbg!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/30388948-2bb0-4035-8790-d69604c8cad8_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
