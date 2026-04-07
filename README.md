@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 06 Apr 2026` and today's comic is `-webkit-box-reflect` by [comiCSS](https://comicss.art)
+The date is `Tue, 07 Apr 2026` and today's comic is `-webkit-box-reflect` by [comiCSS](https://comicss.art)
 
 <p align="center">
   <img src="https://comicss.art/comics/245/webkit-box-reflect.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
