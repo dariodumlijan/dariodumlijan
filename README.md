@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 07 Apr 2026` and today's comic is `-webkit-box-reflect` by [comiCSS](https://comicss.art)
+The date is `Wed, 08 Apr 2026` and today's comic is `The coming soon strategy` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/245/webkit-box-reflect.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!mylv!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/df99430b-c76c-4120-aeca-c55e77189dd1_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
