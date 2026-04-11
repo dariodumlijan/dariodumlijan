@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Fri, 10 Apr 2026` and today's comic is `The Cost of Learning` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Sat, 11 Apr 2026` and today's comic is `Lightning` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!Am9l!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/fe6eec3c-c9c5-4c1d-a430-418da4396e4e_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/lightning.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
