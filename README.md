@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 11 Apr 2026` and today's comic is `Lightning` by [XKCD](https://xkcd.com)
+The date is `Sun, 12 Apr 2026` and today's comic is `Lightning` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/lightning.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
