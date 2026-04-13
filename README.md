@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 12 Apr 2026` and today's comic is `Lightning` by [XKCD](https://xkcd.com)
+The date is `Mon, 13 Apr 2026` and today's comic is `Why web development failed in the Roman Empire` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/lightning.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/246/roman-empire.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
