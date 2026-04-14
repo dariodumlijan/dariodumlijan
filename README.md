@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 13 Apr 2026` and today's comic is `Why web development failed in the Roman Empire` by [comiCSS](https://comicss.art)
+The date is `Tue, 14 Apr 2026` and today's comic is `Engineer on a Sales call` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/246/roman-empire.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!rKUM!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/b724f4ca-88e5-4e06-a4e4-ba2e478e7d25_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
