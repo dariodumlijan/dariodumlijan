@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 18 Apr 2026` and today's comic is `The Work-Life Balance Connection` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Sun, 19 Apr 2026` and today's comic is `Europa Missions` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!4C-0!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/18ea6409-2d06-4d96-9e2c-568dd62562a8_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
