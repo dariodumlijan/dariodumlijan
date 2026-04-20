@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 19 Apr 2026` and today's comic is `Europa Missions` by [XKCD](https://xkcd.com)
+The date is `Mon, 20 Apr 2026` and today's comic is `Europa Missions` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
