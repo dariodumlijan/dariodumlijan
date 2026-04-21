@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 20 Apr 2026` and today's comic is `Europa Missions` by [XKCD](https://xkcd.com)
+The date is `Tue, 21 Apr 2026` and today's comic is `Conference FOMO Then and Now` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/247/conference-fomo.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
