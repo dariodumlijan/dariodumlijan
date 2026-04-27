@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 26 Apr 2026` and today's comic is `Conference FOMO Then and Now` by [comiCSS](https://comicss.art)
+The date is `Mon, 27 Apr 2026` and today's comic is `Beware of CSS!` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://comicss.art/comics/247/conference-fomo.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/248/beware-of-css.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
