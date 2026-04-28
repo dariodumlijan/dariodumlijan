@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 27 Apr 2026` and today's comic is `Beware of CSS!` by [comiCSS](https://comicss.art)
+The date is `Tue, 28 Apr 2026` and today's comic is `The hazing cycle` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/248/beware-of-css.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!IvdZ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/30c1adb3-bfcc-4ea3-b258-5362d20caa21_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
