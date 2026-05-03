@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 02 May 2026` and today's comic is `Bottle` by [XKCD](https://xkcd.com)
+The date is `Sun, 03 May 2026` and today's comic is `Bottle` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/bottle.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
