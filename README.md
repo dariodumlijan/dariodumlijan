@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 03 May 2026` and today's comic is `Bottle` by [XKCD](https://xkcd.com)
+The date is `Mon, 04 May 2026` and today's comic is `Maslow's Hierarchy of Needs` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/bottle.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/249/maslow.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
