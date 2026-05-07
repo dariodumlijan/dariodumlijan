@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 06 May 2026` and today's comic is `The OKR Trap` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 07 May 2026` and today's comic is `Bob, the MVP` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!GwLF!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/3ab0c2f8-1f1e-413c-bdd5-cef6c375d806_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!yAVP!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/b46ad42b-772b-4836-a448-a90987629a12_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
