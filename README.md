@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 14 May 2026` and today's comic is `Plan B, anyone?` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 15 May 2026` and today's comic is `Plan B, anyone?` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!mmRH!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1b98417f-dc0c-4b48-ad7a-9bda72519b76_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
