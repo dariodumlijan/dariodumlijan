@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 19 May 2026` and today's comic is `The Reward Trap` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 20 May 2026` and today's comic is `Win Streak` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!4xG4!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/98f182f3-88dc-4372-b3d8-1970f76d89cb_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!OgqT!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/96bce672-3ace-4876-9eb0-f7e9cebf7e87_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
