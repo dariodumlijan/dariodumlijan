@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 23 May 2026` and today's comic is `Neutrino Project` by [XKCD](https://xkcd.com)
+The date is `Sun, 24 May 2026` and today's comic is `Neutrino Project` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/neutrino_project.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
