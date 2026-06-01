@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 31 May 2026` and today's comic is `Ancestral Genomes` by [XKCD](https://xkcd.com)
+The date is `Mon, 01 Jun 2026` and today's comic is `Annual Performance Review` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/ancestral_genomes.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!R6sK!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/3e033649-7b88-4d2e-b92e-0162b8c0e22a_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
