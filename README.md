@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 03 Jun 2026` and today's comic is `Prioritisation Framework` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 04 Jun 2026` and today's comic is `Honest Purpose` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!pH6W!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/0101dcc9-eeeb-4022-974c-23dd110e5ad9_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!18eP!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a2a1fcde-ed53-4900-98db-5247ed7a08cc_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
