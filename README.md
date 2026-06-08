@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 07 Jun 2026` and today's comic is `Honest Purpose` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Mon, 08 Jun 2026` and today's comic is `Planetary Science` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!18eP!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a2a1fcde-ed53-4900-98db-5247ed7a08cc_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
