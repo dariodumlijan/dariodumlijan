@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 09 Jun 2026` and today's comic is `Corporate Multiverse` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 10 Jun 2026` and today's comic is `Pros and Cons` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!omkh!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1a5cd33c-396d-42d1-8953-0b19d002f0f0_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!PKOf!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/9eb54f00-c39f-4b30-a3eb-9addd22cdfe3_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
