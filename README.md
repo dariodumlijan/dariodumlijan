@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 16 Jun 2026` and today's comic is `Hiring 2 to replace 1` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 17 Jun 2026` and today's comic is `How to save the project` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!DEaJ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/afb05ed8-4a03-48d6-abc8-382cd409d72c_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!4umB!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d337ebc7-af25-49ba-89be-2b64449b1960_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
