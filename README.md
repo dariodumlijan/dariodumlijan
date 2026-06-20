@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Fri, 19 Jun 2026` and today's comic is `Adding more people to a project` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Sat, 20 Jun 2026` and today's comic is `Side Effect` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!TXmt!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/b86fe959-0026-487f-a617-1dbc21e7d3c8_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/side_effect.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
