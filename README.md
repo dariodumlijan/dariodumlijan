@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 20 Jun 2026` and today's comic is `Side Effect` by [XKCD](https://xkcd.com)
+The date is `Sun, 21 Jun 2026` and today's comic is `Side Effect` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/side_effect.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
