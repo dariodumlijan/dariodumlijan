@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 23 Jun 2026` and today's comic is `Remind yourself why you do this` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 24 Jun 2026` and today's comic is `Just do it` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!XjPj!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/0df51a8f-dc17-4664-9c43-dcb71964978a_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!z1aC!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/ef424f36-edb8-46a4-a63b-36f9b3f9d118_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
