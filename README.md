@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Fri, 26 Jun 2026` and today's comic is `A conflict you resolved` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Sat, 27 Jun 2026` and today's comic is `A conflict you resolved` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!VowK!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1e2f6167-be35-4f3f-b74c-b0506389e2bf_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
