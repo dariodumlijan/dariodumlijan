@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 30 Jun 2026` and today's comic is `Lowering attrition` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 01 Jul 2026` and today's comic is `If it works don't touch it` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!Uzj4!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/387bdcd1-2fb4-4320-9e3f-acfd8b42e7a7_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!SH0I!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/aa004494-224e-4058-ae77-9e4deebed031_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
