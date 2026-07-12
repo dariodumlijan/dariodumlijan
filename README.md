@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 11 Jul 2026` and today's comic is `Data driven company` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Sun, 12 Jul 2026` and today's comic is `Toasting Marshmallows` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!wCrb!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/7125019d-9b02-4f89-8d65-5802129b3572_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
