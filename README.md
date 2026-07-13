@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 12 Jul 2026` and today's comic is `Toasting Marshmallows` by [XKCD](https://xkcd.com)
+The date is `Mon, 13 Jul 2026` and today's comic is `Toasting Marshmallows` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
