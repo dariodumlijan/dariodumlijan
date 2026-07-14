@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 13 Jul 2026` and today's comic is `Toasting Marshmallows` by [XKCD](https://xkcd.com)
+The date is `Tue, 14 Jul 2026` and today's comic is `Premature optimization` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!aoEu!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/95143ff7-c546-4a65-8b16-d0138c3e0704_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
