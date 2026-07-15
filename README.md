@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 14 Jul 2026` and today's comic is `Premature optimization` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 15 Jul 2026` and today's comic is `Our most valuable asset` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!aoEu!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/95143ff7-c546-4a65-8b16-d0138c3e0704_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!PxTp!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/e71204c7-8b3d-471a-a687-3e4f4e3b26fc_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
