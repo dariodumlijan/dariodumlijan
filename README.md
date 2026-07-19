@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 18 Jul 2026` and today's comic is `Latitude and Longitude` by [XKCD](https://xkcd.com)
+The date is `Sun, 19 Jul 2026` and today's comic is `Silent listener` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!0iuF!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/9c37d5dd-4bdf-4917-8663-eb9e72bad471_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
