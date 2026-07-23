@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 22 Jul 2026` and today's comic is `Team dynamics and the bell curve` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 23 Jul 2026` and today's comic is `Welcome to Hell` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!RWJj!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/bc8fbb8a-6c53-4bc4-a452-266eb38d3da2_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!6mEI!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/02b62be8-3888-4994-becf-fdce0835dac2_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
