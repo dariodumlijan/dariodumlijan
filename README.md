@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 23 Jul 2026` and today's comic is `Welcome to Hell` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 24 Jul 2026` and today's comic is `It's Always...` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!6mEI!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/02b62be8-3888-4994-becf-fdce0835dac2_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/252/always.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
