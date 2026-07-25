@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Fri, 24 Jul 2026` and today's comic is `It's Always...` by [comiCSS](https://comicss.art)
+The date is `Sat, 25 Jul 2026` and today's comic is `It's Always...` by [comiCSS](https://comicss.art)
 
 <p align="center">
   <img src="https://comicss.art/comics/252/always.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
