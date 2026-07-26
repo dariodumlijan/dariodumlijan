@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 25 Jul 2026` and today's comic is `It's Always...` by [comiCSS](https://comicss.art)
+The date is `Sun, 26 Jul 2026` and today's comic is `Recursive Trucker's Hitch` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/252/always.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/recursive_truckers_hitch.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
