@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 30 Jul 2026` and today's comic is `Highly unprofessional` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 31 Jul 2026` and today's comic is `Highly unprofessional` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!77Vu!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/8f78c284-3979-484b-a202-8630aac8dfa1_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
