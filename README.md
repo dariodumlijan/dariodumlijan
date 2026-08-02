@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 01 Aug 2026` and today's comic is `B-Side` by [comiCSS](https://comicss.art)
+The date is `Sun, 02 Aug 2026` and today's comic is `Main Span` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/253/bside.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/main_span.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
