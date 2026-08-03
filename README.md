@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 02 Aug 2026` and today's comic is `Main Span` by [XKCD](https://xkcd.com)
+The date is `Mon, 03 Aug 2026` and today's comic is `Main Span` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/main_span.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
