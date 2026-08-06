@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Wed, 05 Aug 2026` and today's comic is `Inbox organization` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Thu, 06 Aug 2026` and today's comic is `Therapist anecdote` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!MX25!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d2724f86-12db-4f4f-8bc4-1a4edd74ac0f_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!pBFM!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/24aeb3cc-e8ec-4f53-a2ba-f3f7f383d508_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
