@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 06 Aug 2026` and today's comic is `Therapist anecdote` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 07 Aug 2026` and today's comic is `Therapist anecdote` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!pBFM!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/24aeb3cc-e8ec-4f53-a2ba-f3f7f383d508_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
