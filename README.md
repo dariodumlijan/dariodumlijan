@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 11 Aug 2026` and today's comic is `Retention strategy` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 12 Aug 2026` and today's comic is `Work long hours because I do` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!-tKb!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/ccbf9982-e787-4bc2-8ad0-0facd7fe9746_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!ME8h!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/f1de4137-f8fe-42e5-928b-8d88c546abb7_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
