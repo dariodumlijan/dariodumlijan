@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 18 Aug 2026` and today's comic is `Teamwork vs accountability` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 19 Aug 2026` and today's comic is `Concerned about mental health` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!Jfh3!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/3a4620c7-5ef2-46f2-b9e0-aef02443ebbd_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!Jyp9!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/891bcc47-002a-47bf-90b5-ded9d0a930f9_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
