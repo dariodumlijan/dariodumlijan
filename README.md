@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 27 Aug 2026` and today's comic is `Amnesia` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 28 Aug 2026` and today's comic is `Amnesia` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!_uor!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/e26bc0cb-d6c3-4c77-90ca-c322fa48bc5f_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
