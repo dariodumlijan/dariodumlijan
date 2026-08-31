@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 30 Aug 2026` and today's comic is `Launchpad` by [XKCD](https://xkcd.com)
+The date is `Mon, 31 Aug 2026` and today's comic is `Launchpad` by [XKCD](https://xkcd.com)
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
