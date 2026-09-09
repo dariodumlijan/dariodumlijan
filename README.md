@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 08 Sep 2026` and today's comic is `Time vs attention management` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Wed, 09 Sep 2026` and today's comic is `Greatest strength` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!AAGi!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/10dec1ca-5436-4380-a9ed-c61f14679e07_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!AFJA!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/f39d620f-f5f1-44ce-98e7-e9501ff7133c_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
