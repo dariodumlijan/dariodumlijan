@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 14 Sep 2026` and today's comic is `Resume rewrite` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Tue, 15 Sep 2026` and today's comic is `Tiny changes` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!WwgF!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/f64f91c2-141c-4319-8196-3c8fa5fa89bb_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!J3qe!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/47846639-5dfc-4e60-94b4-dc323142c917_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
