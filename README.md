@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 19 Sep 2026` and today's comic is `Nobody Will Remember...` by [comiCSS](https://comicss.art)
+The date is `Sun, 20 Sep 2026` and today's comic is `Nobody Will Remember...` by [comiCSS](https://comicss.art)
 
 <p align="center">
   <img src="https://comicss.art/comics/257/nobody-will-remember.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
