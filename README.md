@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 27 Sep 2026` and today's comic is `Worked hard last week` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Mon, 28 Sep 2026` and today's comic is `Skip to content` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!MtZy!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/311ff919-f757-4bc5-b1da-a7802a3d6575_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/259/skip-to-content.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
