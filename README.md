@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 28 Sep 2026` and today's comic is `Skip to content` by [comiCSS](https://comicss.art)
+The date is `Tue, 29 Sep 2026` and today's comic is `Skip to content` by [comiCSS](https://comicss.art)
 
 <p align="center">
   <img src="https://comicss.art/comics/259/skip-to-content.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
