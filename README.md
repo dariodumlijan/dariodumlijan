@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 29 Sep 2026` and today's comic is `Skip to content` by [comiCSS](https://comicss.art)
+The date is `Wed, 30 Sep 2026` and today's comic is `I hate Mondays` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/259/skip-to-content.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!Yudc!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/280bd029-4c57-450d-9f38-d0e8117cc6c5_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
