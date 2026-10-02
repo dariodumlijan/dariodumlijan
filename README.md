@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 01 Oct 2026` and today's comic is `Presentation Hell` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 02 Oct 2026` and today's comic is `AGI` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!TsbF!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/f2463248-acea-4452-918e-bc8423ad054b_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/260/agi.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
