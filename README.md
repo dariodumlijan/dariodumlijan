@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 04 Oct 2026` and today's comic is `Accelerator Energies` by [XKCD](https://xkcd.com)
+The date is `Mon, 05 Oct 2026` and today's comic is `AGI` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/260/agi.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
