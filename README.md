@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 11 Oct 2026` and today's comic is `Dogcatcher` by [XKCD](https://xkcd.com)
+The date is `Mon, 12 Oct 2026` and today's comic is `The Present` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/262/the-present.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
