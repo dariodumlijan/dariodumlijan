@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 15 Oct 2026` and today's comic is `It's not you... it's just a button.` by [MonkeyUser](https://www.monkeyuser.com)
+The date is `Fri, 16 Oct 2026` and today's comic is `Skip slides short of time` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://www.monkeyuser.com/2025/button/justabutton.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!XKAy!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/dcac353e-3ee4-4f0b-acc4-19b6bb142ee2_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
