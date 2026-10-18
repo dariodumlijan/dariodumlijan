@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sat, 17 Oct 2026` and today's comic is `The Present` by [comiCSS](https://comicss.art)
+The date is `Sun, 18 Oct 2026` and today's comic is `Momentum Demonstration` by [XKCD](https://xkcd.com)
 
 <p align="center">
-  <img src="https://comicss.art/comics/262/the-present.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
