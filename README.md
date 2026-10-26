@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Sun, 25 Oct 2026` and today's comic is `(announcement) Work Chronicles 2027 Calendar is now HERE` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Mon, 26 Oct 2026` and today's comic is `Become Ungovernable` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!UNw_!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/40106d37-4a12-45ee-a5e5-6c8f4f6bbc11_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/265/ungovernable.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
