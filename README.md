@@ -11,7 +11,7 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Tue, 03 Nov 2026` and today's comic is `CSS Math Dance` by [comiCSS](https://comicss.art)
+The date is `Wed, 04 Nov 2026` and today's comic is `CSS Math Dance` by [comiCSS](https://comicss.art)
 
 <p align="center">
   <img src="https://comicss.art/comics/266/css-math.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
