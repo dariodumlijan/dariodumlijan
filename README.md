@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Thu, 12 Nov 2026` and today's comic is `Mind reader` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Fri, 13 Nov 2026` and today's comic is `How to create your roadmap` by [Work Chronicles](https://workchronicles.substack.com)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!o691!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F399d2659-cca8-4b9d-a61f-b22fb84def87_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://substackcdn.com/image/fetch/$s_!Eyyp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bbf4979-87cf-491d-9a75-badf32b14a4b_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
