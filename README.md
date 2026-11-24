@@ -11,10 +11,10 @@
 
 > A day without laughter is a day wasted. — Charlie Chaplin
 
-The date is `Mon, 23 Nov 2026` and today's comic is `Mood` by [Work Chronicles](https://workchronicles.substack.com)
+The date is `Tue, 24 Nov 2026` and today's comic is `shape-outside` by [comiCSS](https://comicss.art)
 
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/$s_!NlMK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe57055ea-a9f5-454b-9e01-65609c69603f_4800x4800.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
+  <img src="https://comicss.art/comics/269/shape-outside.png" alt="latest_post" style="width: 60%; min-width: 200px;" />
 </p>
 
 ---
